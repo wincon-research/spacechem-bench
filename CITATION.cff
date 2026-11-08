@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these solutions or results, please cite SpaceChem Bench."
+type: dataset
+title: "SpaceChem Bench: Can LLMs Beat Humans at 2D Spatial Programming?"
+authors:
+  - name: Wincon
+version: "2026-11-04-v1"
+date-released: 2026-11-04
+url: "https://spacechem.wincon.dev/"
+repository-code: "https://github.com/wincon-research/spacechem-bench"
+license: MIT
+keywords: [llm-evaluation, benchmark, spacechem, zachtronics, spatial-reasoning, program-synthesis, pareto-frontier, llm-agents]

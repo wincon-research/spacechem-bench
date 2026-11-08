@@ -1,0 +1,11 @@
+SOLUTION:QT-1,Player,0-0-0
+COMPONENT:'drag-quantum-reactor-x',2,0,''
+MEMBER:'instr-start',0,0,128,3,4,0,0
+MEMBER:'instr-start',0,0,32,8,7,0,0
+MEMBER:'feature-tunnel',-1,0,1,1,1,0,0
+MEMBER:'feature-tunnel',-1,0,1,7,5,0,0
+MEMBER:'instr-arrow',0,0,64,4,4,0,0
+MEMBER:'instr-arrow',180,0,64,5,4,0,0
+MEMBER:'instr-input',-1,0,128,4,4,0,0
+MEMBER:'instr-swap',-1,0,128,5,4,0,0
+MEMBER:'instr-output',-1,1,32,9,7,0,0
